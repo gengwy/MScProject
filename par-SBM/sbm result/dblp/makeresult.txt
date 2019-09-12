@@ -1,0 +1,75 @@
+### Reading from ./conf.txt starts. ###
+netPath = ./com-dblp.ungraph.txt
+### Reading from ./conf.txt finishes. ###
+[1] wnnz0 = (local) 0 (global) 85191 (start) 85191 (end) 170383 (Nlocal) 85192 
+[2] wnnz0 = (local) 0 (global) 170383 (start) 170383 (end) 255574 (Nlocal) 85191 
+[3] wnnz0 = (local) 0 (global) 255574 (start) 255574 (end) 340766 (Nlocal) 85192 
+[4] wnnz0 = (local) 0 (global) 340766 (start) 340766 (end) 425957 (Nlocal) 85191 
+[0] wnnz0 = (local) 0 (global) 0 (start) 0 (end) 85191 (Nlocal) 85191 
+Warning: Isolated nodes exist in the graph. 
+The Adjacency Matrix is Loaded.
+Warning: Isolated nodes exist in the graph. 
+Warning: Isolated nodes exist in the graph. 
+Warning: Isolated nodes exist in the graph. 
+Warning: Isolated nodes exist in the graph. 
+nlocal = 85191, elocal = 419786. 
+No. of Communities = 0 (initial) 0 (final), No. of Nodes = 425957, No. of Edges = 1049866. 
+No. of Processes = 5. 
+Matrix B is Created. 
+Before stage 0, the smallest/largest cluster size (number): 1 (425957), 1 (425957). Total cluster number: 425957. 
+Number of changed nodes: 
+366511 167177 128953 120606 118055 116659 115732 114998 114660 114133 113950 113584 113246 113203 112992 112954 112771 112723 112618 112487 
+112391 112438 112376 112454 112281 112241 112312 112216 112217 112164 112147 112143 112076 112039 112075 112052 112043 111919 111979 111973 
+111907 111899 111936 111839 111967 111865 111912 111990 
+The algorithm converged after 48 iterations in stage 0. 
+Community number change is -412971; Remaining number is 12986.
+Before stage 1, the smallest/largest cluster size (number): 2 (195), 2426 (1). Total cluster number: 12986. 
+Number of changed nodes: 
+137935 122052 113851 111746 111125 110893 110699 110514 110486 110432 110281 110289 110276 110258 110236 110190 110257 110143 110121 110167 
+110131 110113 110140 110125 110121 110121 110073 110060 110138 110078 110074 110126 110088 110118 110098 110085 110081 110012 110058 110050 
+110074 110085 110063 110076 110103 
+The algorithm converged after 45 iterations in stage 1. 
+Community number change is -2681; Remaining number is 10305.
+Before stage 2, the smallest/largest cluster size (number): 2 (91), 1666 (1). Total cluster number: 10305. 
+Number of changed nodes: 
+115396 111114 110231 109956 109958 109885 109861 109909 109898 109880 109902 109843 109882 109860 109916 109922 109877 109873 109865 109868 
+109859 109881 109787 109840 109872 109846 109879 109821 109838 109812 109839 109883 109852 109835 109842 109835 109776 109885 109847 109868 
+109827 109839 109841 109808 109821 109853 
+The algorithm converged after 46 iterations in stage 2. 
+Community number change is -352; Remaining number is 9953.
+Before stage 3, the smallest/largest cluster size (number): 2 (84), 2790 (1). Total cluster number: 9953. 
+Number of changed nodes: 
+111405 110332 109991 109915 109898 109894 109874 109866 109878 109829 109855 109872 109852 109805 109872 109870 109832 109849 109843 109893 
+109841 109811 109810 109804 109781 109796 109784 109788 109817 109791 109787 109847 109837 109819 109809 109814 109828 109781 109830 109795 
+109822 109822 109817 109787 109752 109775 109789 109809 
+The algorithm converged after 48 iterations in stage 3. 
+Community number change is -168; Remaining number is 9785.
+Before stage 4, the smallest/largest cluster size (number): 2 (102), 2411 (1). Total cluster number: 9785. 
+Number of changed nodes: 
+110147 109839 109815 109813 109772 109847 109833 109813 109818 109790 109757 109771 109778 109769 109752 109814 109747 109804 109811 109834 
+109755 109724 109789 109809 109815 109782 109787 109754 109825 109809 109778 109805 109803 109797 109749 109805 109788 109788 109843 109838 
+109788 109755 109779 109790 109782 109816 
+The algorithm converged after 46 iterations in stage 4. 
+Community number change is -99; Remaining number is 9686.
+Before stage 5, the smallest/largest cluster size (number): 2 (97), 2412 (1). Total cluster number: 9686. 
+Number of changed nodes: 
+109941 109837 109783 109801 109812 109793 109781 109730 109766 109814 109759 109791 109798 109804 109753 109824 109873 109810 109787 109772 
+109810 109746 109780 109761 109777 109774 109759 109827 109779 109827 109797 109828 109752 109751 109805 109826 109798 109810 109787 109810 
+109824 109768 109793 109824 
+The algorithm converged after 44 iterations in stage 5. 
+Community number change is -70; Remaining number is 9616.
+Before stage 6, the smallest/largest cluster size (number): 2 (84), 2433 (1). Total cluster number: 9616. 
+Number of changed nodes: 
+109934 109776 109770 109802 109804 109771 109783 109820 109803 109826 109739 109803 109814 109720 109755 109789 109779 109778 109783 109804 
+109779 109835 109796 109805 109865 109822 109867 109865 109804 109833 109798 109760 109795 109847 109815 109789 109759 109827 109815 109778 
+109811 109819 109802 109821 109812 109739 109795 109770 109760 109761 109813 
+The algorithm converged after 51 iterations in stage 6. 
+Community number change is -37; Remaining number is 9579.
+[ALL]. Data loading time is 1.052019 s.
+[ALL]. Initialization time is 0.032644 s and running time is 11.564422 s.
+Finally, the smallest/largest cluster size (number): 2 (78), 2447 (1). Total cluster number: 9579. 
+
+Total degrees in all the clusters are 1567962, which is 74.674385% of total degrees. 
+
+
+All the computing work finishes. 

@@ -1,0 +1,12 @@
+Parsing Input Files
+Partition A size: 34583
+Partition B size: 16386
+Creating Indexes of Partition A
+Creating Indexes of Partition B
+Computing F1Score of partition A
+Computing F1Score of partition B
+Average precision partition A: 0.0246413
+Average recall partition A: 0.1391
+Average precision partition B: 0.726003
+Average recall partition B: 0.0567008
+F1Score: 0.0557344
